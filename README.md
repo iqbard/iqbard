@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iqbard
 - 👀 I’m interested in data, social media and IoT.
-- 🌱 I’m currently learning about data science.
+- 🌱 I’m currently learning about website development
 - 💞️ I’m looking to collaborate on data related job.
-- 📫 How to reach me iqbabd26@gmail.com
+- 📫 How to reach me https://linkedin.com/in/iqbard26
